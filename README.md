@@ -1,4 +1,4 @@
-S3Service 
+AWS S3 Service 
 --------------
 This app help u connect to s3 through code.
 
