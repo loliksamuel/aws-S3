@@ -22,7 +22,10 @@ u also can use aws-cli
 - install aws-cli
 - aws configure
 - put access key, secret, region, type
-- aws s3 ls 
-- aws s3 ls s3://YOUR_BUCKET
-- aws help
-- aws s3 mb s3://NEW_BUCKET_NAME --region eu-west-1
+- then use these commands:
+```sh
+aws s3 ls 
+aws s3 ls s3://YOUR_BUCKET
+aws help
+aws s3 mb s3://NEW_BUCKET_NAME --region eu-west-1
+```
